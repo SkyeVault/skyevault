@@ -2,7 +2,7 @@
 
 Projects include Terraform and Proxmox automation, 3D environments using Three.js, decentralized infrastructure, blockchain development, security automation, and Rust-based tooling. 
 
-[Arynwood Technology(https://www.arynwood.com) is my self-hosted development hub.
+[Arynwood Technology](https://www.arynwood.com) is my self-hosted development hub.
 
 ---
 
