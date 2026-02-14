@@ -9,6 +9,23 @@ Hi, I'm Lorelei Noble, an open-source software enthusiast and web developer.  Pr
 
 ---
 
+## Current Projects
+
+- Container orchestration using Terraform
+- Software automation using n8n, ollama and ansible
+- Security hardening
+- Custom CMS Template creation using python
+- Develop visual UI for 2D and 3D metaverse layers
+
+---
+
+## My Journey
+I started in web design and graphic arts before shifting my focus to automation, cloud security, and software development.  
+My goal is to build expertise in:
+- Infrastructure automation
+- Scalable security architecture
+- Locally hosted AI training
+
 ## Current Testing and Build Status
 ### Rust CI Workflow
 [![Rust CI](https://github.com/SkyeVault/Main/actions/workflows/ci.yml/badge.svg)](https://github.com/SkyeVault/Main/actions/workflows/ci.yml)
@@ -32,25 +49,6 @@ Spotify Playlist Maker is a Rust package for automating the creation and managem
 - [Spotify Playlist Maker on Crates.io](https://crates.io/crates/spotify_playlist_maker)
 - [Documentation on Docs.rs](https://docs.rs/spotify_playlist_maker)
   
----
-
-## Development Goals
-
-- Container orchestration using Terraform
-- Software automation using n8n, ollama and ansible
-- Security hardening
-- Custom CMS Template creation using python
-- Develop visual UI for 2D and 3D metaverse layers
-
----
-
-## My Journey
-I started in web design and graphic arts before shifting my focus to automation, cloud security, and software development.  
-My goal is to build expertise in:
-- Infrastructure automation
-- Scalable security architecture
-- Locally hosted AI training
-
 ---
 
 ## Archived Project: Original NFT Collection: Lorelei Noble Genesis
