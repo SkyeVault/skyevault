@@ -1,28 +1,6 @@
 # Lorelei Noble
 
-[![Rust CI](https://github.com/SkyeVault/Main/actions/workflows/ci.yml/badge.svg)](https://github.com/SkyeVault/Main/actions/workflows/ci.yml)
-
-Projects include Terraform and Proxmox automation, 3D environments using Three.js, decentralized infrastructure, blockchain development, security automation, and Rust-based tooling. Arynwood.com is now self-hosted.
-
-This repository supports:
-- [Rainkeep](https://rainkeep.netlify.app/) — a netlify/astro project hub for technical logs
-- SkyeVault Ops — cloud and contract security research
-- On-Chain Metaverse — a 2D and 3D open metaverse experiment using decentralized storage and Ethereum-compatible contracts
-- Genesis — an NFT collection deployed to the Polygon testnet and stored on IPFS
-
----
-
-## Directory Overview
-
-```
-Blockchain/         # Smart contracts, metaverse, NFT systems
-Notes/              # Personal knowledge base (AWS, Web3, Rust, etc.)
-Rust_Projects/      # Rust-based CLI tools and creative automation
-lib/                # OpenZeppelin contracts (referenced locally)
-rainkeep/           # Source for devlog system (Astro)
-security/           # AWS security labs, firewall configs, SkyeVault Ops
-README.md           # This file
-```
+Projects include Terraform and Proxmox automation, 3D environments using Three.js, decentralized infrastructure, blockchain development, security automation, and Rust-based tooling. [Arynwood Technology - www.arynwood.com](https://www.arynwood.com) is now self-hosted.
 
 ---
 
