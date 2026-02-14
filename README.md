@@ -1,10 +1,8 @@
-# Main Repository
+# Lorelei Noble
 
 [![Rust CI](https://github.com/SkyeVault/Main/actions/workflows/ci.yml/badge.svg)](https://github.com/SkyeVault/Main/actions/workflows/ci.yml)
 
-# Overview
-
-This is the technical portfolio and development hub for Lorelei Noble. Projects include Terraform and Proxmox automation, 3D environments using Three.js, decentralized infrastructure, blockchain development, security automation, and Rust-based tooling. Arynwood.com is now self-hosted.
+Projects include Terraform and Proxmox automation, 3D environments using Three.js, decentralized infrastructure, blockchain development, security automation, and Rust-based tooling. Arynwood.com is now self-hosted.
 
 This repository supports:
 - [Rainkeep](https://rainkeep.netlify.app/) — a netlify/astro project hub for technical logs
