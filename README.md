@@ -65,18 +65,10 @@ I started in web design and graphic arts before shifting my focus to automation,
 My goal is to build expertise in:
 - Infrastructure automation
 - Scalable security architecture
-- Locally hosted AI training 
- 
-## Devlog Engine (rainkeep)
-
-The rainkeep folder contains the custom blog system that powers [rainkeep]((https://rainkeep.netlify.app/)). It is built using Astro and styled with a minimalist terminal-inspired aesthetic.
-
-- Blog posts are written in standalone HTML files
-- Currently building a 3d art gallery using Three.js at rainkeep/public/gallery3d
-- The site is deployed via Netlify
-- Source: `rainkeep/src/pages/blog/` and `rainkeep/static/blog-html/`
+- Locally hosted AI training
 
 ---
+![IPv6 Certification Badge for Arynwood](https://ipv6.he.net/certification/create_badge.php?pass_name=Arynwood&badge=1)
 
 ## Archived Project: Original NFT Collection: Lorelei Noble Genesis
 
