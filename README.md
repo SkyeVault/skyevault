@@ -78,7 +78,7 @@ Spotify Playlist Maker is a Rust package for automating the creation and managem
 - High-performance logic and automation
 
 ### Cloud Security and Infrastructure
-- proxmox
+- Proxmox
 - Terraform and Ansible
 - GitHub Actions for CI/CD pipelines
 
