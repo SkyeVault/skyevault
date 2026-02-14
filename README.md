@@ -3,6 +3,7 @@
 Projects include Terraform and Proxmox automation, 3D environments using Three.js, decentralized infrastructure, blockchain development, security automation, and Rust-based tooling. 
 
 [Arynwood Technology](https://www.arynwood.com) is my self-hosted development portfolio. 
+
 ![IPv6 Certification Badge for Arynwood](https://ipv6.he.net/certification/create_badge.php?pass_name=Arynwood&badge=1)
 
 ---
