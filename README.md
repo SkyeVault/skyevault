@@ -2,7 +2,7 @@
 
 Projects include Terraform and Proxmox automation, 3D environments using Three.js, decentralized infrastructure, blockchain development, security automation, and Rust-based tooling. 
 
-[Arynwood Technology](https://www.arynwood.com) is my self-hosted development hub.
+[Arynwood Technology](https://www.arynwood.com) is my self-hosted development hub. ![IPv6 Certification Badge for Arynwood](https://ipv6.he.net/certification/create_badge.php?pass_name=Arynwood&badge=1)
 
 ---
 
@@ -33,9 +33,10 @@ Spotify Playlist Maker is a Rust package for automating the creation and managem
 
 ## Development Goals
 
-- Expand open-source metaverse and contract transparency projects
-- Harden smart contracts with audit-style documentation
-- Complete on-chain governance and token logic prototypes
+- Container orchestration using Terraform
+- Software automation using n8n, ollama and ansible
+- Security hardening
+- Custom CMS Template creation using python
 - Develop visual UI for 2D and 3D metaverse layers
 
 ---
@@ -48,7 +49,6 @@ My goal is to build expertise in:
 - Locally hosted AI training
 
 ---
-![IPv6 Certification Badge for Arynwood](https://ipv6.he.net/certification/create_badge.php?pass_name=Arynwood&badge=1)
 
 ## Archived Project: Original NFT Collection: Lorelei Noble Genesis
 
