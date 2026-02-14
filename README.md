@@ -5,6 +5,8 @@ Hi, I'm Lorelei Noble, a full-stack web developer.  Projects include Terraform a
 [Arynwood Technology](https://www.arynwood.com) is my self-hosted development portfolio. 
 
 ![IPv6 Certification Badge for Arynwood](https://ipv6.he.net/certification/create_badge.php?pass_name=Arynwood&badge=1)
+  
+![GitHub Streak](https://streak-stats.demolab.com/?user=skyevault&theme=dark)
 
 ---
 
@@ -84,22 +86,11 @@ My goal is to build expertise in:
 - GitHub Actions for CI/CD pipelines
 
 ---
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=skyevault&theme=dark)
-
----
 
 ## Connect and Collaborate
 Interested in blockchain development, cloud security, automation, or full-stack applications?  
 Feel free to check out my repositories and reach out.
 
-- GitHub: [SkyeVault](https://github.com/skyevault)
 - Site: [arynwood.com](https://arynwood.com)
 - LinkedIn: [Lorelei Noble](https://www.linkedin.com/in/lorelein/)
 
----
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-![Rust](https://img.shields.io/badge/Rust-Language-brown?style=flat-square&logo=rust)
