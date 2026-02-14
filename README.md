@@ -1,6 +1,6 @@
 # Lorelei Noble
 
-Hi, I'm Lorelei Noble, a full-stack web developer.  Projects include Terraform and Proxmox automation, 3D environments using Three.js, decentralized infrastructure, blockchain development, security automation, and Rust-based tooling. 
+Hi, I'm Lorelei Noble, an open-source software enthusiast and web developer.  Projects include Terraform and Proxmox automation, 3D environments using Three.js, decentralized infrastructure, blockchain development, security automation, and Rust-based tooling. 
 
 [Arynwood Technology](https://www.arynwood.com) is my self-hosted development portfolio. 
 
