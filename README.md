@@ -1,6 +1,8 @@
 # Lorelei Noble
 
-Projects include Terraform and Proxmox automation, 3D environments using Three.js, decentralized infrastructure, blockchain development, security automation, and Rust-based tooling. [Arynwood Technology - www.arynwood.com](https://www.arynwood.com) is now self-hosted.
+Projects include Terraform and Proxmox automation, 3D environments using Three.js, decentralized infrastructure, blockchain development, security automation, and Rust-based tooling. 
+
+[Arynwood Technology(https://www.arynwood.com) is my self-hosted development hub.
 
 ---
 
