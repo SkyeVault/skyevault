@@ -6,6 +6,8 @@ Check out my [Linux Terminal Study Hub](https://www.arynwood.com/terminal)
 
 [Arynwood Technology](https://www.dev.arynwood.com) is my development portfolio, including my own self-hosted IRC server. [Chat with me!](www.irc.arynwood.com)
 
+
+![IPv6 Certification Badge for Arynwood](https://ipv6.he.net/certification/create_badge.php?pass_name=Arynwood&badge=1)
   
 ![GitHub Streak](https://streak-stats.demolab.com/?user=skyevault&theme=dark)
 
@@ -79,8 +81,6 @@ Feel free to check out my repositories and reach out.
 
 - Site: [arynwood.com](https://arynwood.com)
 - LinkedIn: [Lorelei Noble](https://www.linkedin.com/in/lorelein/)
-
-![IPv6 Certification Badge for Arynwood](https://ipv6.he.net/certification/create_badge.php?pass_name=Arynwood&badge=1)
 
 ## Archived Project: Original NFT Collection: Lorelei Noble Genesis
 
