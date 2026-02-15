@@ -2,7 +2,7 @@
 
 Hi, I'm Lorelei Noble, an open-source software enthusiast and web developer.  Projects include Terraform and Proxmox automation, 3D environments using Three.js, decentralized infrastructure, blockchain development, security research, and Rust-based tooling.  I recently moved my netlify astro space to a self-hosted static site.  I love configuring DNS, NGINX, and firewall settings.  Check out my [Linux Terminal Study Hub](https://www.arynwood.com/terminal)
 
-[Arynwood Technology](https://www.dev.arynwood.com) is my development portfolio. 
+[Arynwood Technology](https://www.dev.arynwood.com) is my development portfolio, including my own self-hosted IRC server. [IRC Web UI](www.irc.arynwood.com)
 
   
 ![GitHub Streak](https://streak-stats.demolab.com/?user=skyevault&theme=dark)
