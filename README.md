@@ -15,7 +15,7 @@ Hi, I'm Lorelei Noble, an open-source software enthusiast and web developer.  Pr
 - Software automation using n8n, ollama and ansible
 - Security hardening
 - Custom CMS Template creation using python
-- Develop visual UI for 2D and 3D metaverse layers
+- Develop UI for hosting automation
 
 ---
 
