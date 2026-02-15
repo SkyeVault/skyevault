@@ -26,17 +26,11 @@ My goal is to build expertise in:
 - Scalable security architecture
 - Locally hosted AI training
 
-## Current Testing and Build Status
-### Rust CI Workflow
-[![Rust CI](https://github.com/SkyeVault/Main/actions/workflows/ci.yml/badge.svg)](https://github.com/SkyeVault/Main/actions/workflows/ci.yml)
-
-- **Latest Tests:** [GitHub Actions](https://github.com/SkyeVault/Main/actions)
-- **Build Status:** Check the badge above for the latest result
-
 ---
 
 ## My Published Crate: Spotify Playlist Maker
 
+[![Rust CI](https://github.com/SkyeVault/Main/actions/workflows/ci.yml/badge.svg)](https://github.com/SkyeVault/Main/actions/workflows/ci.yml)
 [![Crates.io](https://img.shields.io/crates/v/spotify_playlist_maker)](https://crates.io/crates/spotify_playlist_maker)
 ![Crates.io](https://img.shields.io/crates/d/spotify_playlist_maker)
 ![Crates.io](https://img.shields.io/crates/l/spotify_playlist_maker)
