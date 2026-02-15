@@ -16,6 +16,7 @@ Visit my development site at [Arynwood Technology](https://www.dev.arynwood.com)
 - Develop UI for hosting automation
 
 Check out my [Linux Terminal Study Hub](https://www.arynwood.com/terminal)
+
 ---
 
 ## My Journey
