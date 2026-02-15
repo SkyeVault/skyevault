@@ -51,25 +51,12 @@ Spotify Playlist Maker is a Rust package for automating the creation and managem
   
 ---
 
-## Archived Project: Original NFT Collection: Lorelei Noble Genesis
-
-- Testnet is no longer supported by Polygon. This project is now considered an archive
-- Hand-drawn original artwork converted into a NFT collection
-- Custom smart contract written in Solidity and deployed with Foundry (Rust)
-- Deployed to: Polygon Amoy Testnet (proof of concept)
-- Smart Contract Address: 0x1C5ec3De32C1cA8e1da93A99c176fa0eF2711783  
-- Hosted on IPFS: bafybeihdo27nu3iak7njllgpkmx3ra27mbazlrr444t4sdp46z3sn2v5ye  
-- OpenSea (Testnet): https://testnets.opensea.io/assets/amoy/0x1C5ec3De32C1cA8e1da93A99c176fa0eF2711783/
-
----
-
 ## Technologies in Use
 
 ### Blockchain and Web3
 - Three.js
 - Foundry and Solidity
 - IPFS, Web3.Storage
-- Polygon Amoy Testnet
 - Smart contract security best practices
 
 ### Rust Tooling
@@ -92,3 +79,13 @@ Feel free to check out my repositories and reach out.
 - LinkedIn: [Lorelei Noble](https://www.linkedin.com/in/lorelein/)
 
 ![IPv6 Certification Badge for Arynwood](https://ipv6.he.net/certification/create_badge.php?pass_name=Arynwood&badge=1)
+
+## Archived Project: Original NFT Collection: Lorelei Noble Genesis
+
+- Testnet is no longer supported by Polygon. This project is now considered an archive
+- Hand-drawn original artwork converted into a NFT collection
+- Custom smart contract written in Solidity and deployed with Foundry (Rust)
+- Deployed to: Polygon Amoy Testnet (proof of concept)
+- Smart Contract Address: 0x1C5ec3De32C1cA8e1da93A99c176fa0eF2711783  
+- Hosted on IPFS: bafybeihdo27nu3iak7njllgpkmx3ra27mbazlrr444t4sdp46z3sn2v5ye  
+- OpenSea (Testnet): https://testnets.opensea.io/assets/amoy/0x1C5ec3De32C1cA8e1da93A99c176fa0eF2711783/
