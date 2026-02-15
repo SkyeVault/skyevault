@@ -4,7 +4,7 @@ Hi, I'm Lorelei Noble, an open-source software enthusiast and web developer.  Pr
 
 Check out my [Linux Terminal Study Hub](https://www.arynwood.com/terminal)
 
-[Arynwood Technology](https://www.dev.arynwood.com) is my development portfolio, including my own self-hosted IRC server. [Chat with me!](www.irc.arynwood.com)
+Visit my development site at [Arynwood Technology](https://www.dev.arynwood.com), including a self-hosted IRC server. [Chat with me!](www.irc.arynwood.com)
   
 ![GitHub Streak](https://streak-stats.demolab.com/?user=skyevault&theme=dark)      ![IPv6 Certification Badge for Arynwood](https://ipv6.he.net/certification/create_badge.php?pass_name=Arynwood&badge=1)
 ---
