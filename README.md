@@ -1,6 +1,6 @@
 # Lorelei Noble
 
-Hi, I'm Lorelei Noble, an open-source software enthusiast and web developer.  Projects include Terraform and Proxmox automation, 3D environments using Three.js, decentralized infrastructure, blockchain development, security research, and Rust-based tooling.  I love configuring DNS, NGINX, and studying security.  
+Hi, I'm Lorelei Noble, an open-source software enthusiast and web developer.  Projects include Terraform and Proxmox automation, 3D environments using Three.js, decentralized infrastructure, blockchain development, security research, and Rust-based tooling.  I love configuring DNS, NGINX, and making n8n workflows.  
 
 Check out my [Linux Terminal Study Hub](https://www.arynwood.com/terminal)
 
