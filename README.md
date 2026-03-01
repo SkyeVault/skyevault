@@ -5,6 +5,8 @@ Hi, I'm Lorelei Noble, an open-source software enthusiast and web developer.  Pr
 Visit my development site at [Arynwood Technology](https://www.dev.arynwood.com)
 
 [Chat with me on IRC](https://irc.arynwood.com) irc.arynwood.com:6697
+
+
 ---
 
 ## Current Projects
