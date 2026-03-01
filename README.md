@@ -2,7 +2,8 @@
 
 Hi, I'm Lorelei Noble, an open-source software enthusiast and web developer.  Projects include Terraform and Proxmox automation, 3D environments using Three.js, decentralized infrastructure, blockchain development, security research, and Rust-based tooling.  I love configuring DNS, NGINX, and making n8n workflows.  
 
-Visit my development site at [Arynwood Technology](https://www.dev.arynwood.com), including a self-hosted IRC server. [Chat with me!](https://irc.arynwood.com)
+Visit my development site at [Arynwood Technology](https://www.dev.arynwood.com)
+[Chat with me on IRC](https://irc.arynwood.com) irc.arynwood.com:6697
 ---
 
 ## Current Projects
