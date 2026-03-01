@@ -1,6 +1,6 @@
 # Lorelei Noble
 
-Hi, I'm **Lorelei Noble** — an open-source software enthusiast and full-stack developer focused on infrastructure automation, cloud security, and decentralized systems. My work spans Terraform and Proxmox automation, 3D web environments with Three.js, blockchain development, security research, and Rust-based tooling. I have a particular fondness for DNS configuration, NGINX tuning, and building n8n workflows.
+Hi, I'm **Lorelei Noble** - an open-source software enthusiast and full-stack developer focused on infrastructure automation, cloud security, and decentralized systems. My work spans Terraform and Proxmox automation, 3D web environments with Three.js, blockchain development, security research, and Rust-based tooling. I have a particular fondness for DNS configuration, NGINX tuning, and building n8n workflows.
 
 🌐 [arynwood.com](https://arynwood.com) &nbsp;|&nbsp; 💻 [dev.arynwood.com](https://www.dev.arynwood.com) &nbsp;|&nbsp; 💬 [IRC: irc.arynwood.com:6697](https://irc.arynwood.com)
 
@@ -13,7 +13,7 @@ Hi, I'm **Lorelei Noble** — an open-source software enthusiast and full-stack 
 - **Security hardening** across self-hosted infrastructure
 - **Custom CMS template generation** with Python
 - **UI development** for hosting automation workflows
-- **HomeSchool-v1** — a desktop learning app built with Tauri for Linux
+- **HomeSchool-v1** - a desktop learning app built with Tauri for Linux
 
 > 📦 **Install HomeSchool-v1 on Linux:**
 > ```bash
@@ -53,19 +53,19 @@ A Rust library for automating the creation and management of Spotify playlists v
 ## Technologies
 
 **Blockchain & Web3**
-— Three.js, Foundry, Solidity, IPFS, Web3.Storage, smart contract security
+- Three.js, Foundry, Solidity, IPFS, Web3.Storage, smart contract security
 
 **Rust Tooling**
-— CLI tools, automation scripts, published crates, high-performance logic
+- CLI tools, automation scripts, published crates, high-performance logic
 
 **Cloud Security & Infrastructure**
-— Proxmox, Terraform, Ansible, GitHub Actions CI/CD
+- Proxmox, Terraform, Ansible, GitHub Actions CI/CD
 
 ---
 
 ## Connect & Collaborate
 
-Whether you're working on blockchain development, cloud security, automation, or full-stack applications — feel free to explore my repositories or reach out directly.
+Whether you're working on blockchain development, cloud security, automation, or full-stack applications - feel free to explore my repositories or reach out directly.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lorelein/)
 - 💻 [GitHub](https://github.com/SkyeVault)
