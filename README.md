@@ -70,7 +70,6 @@ A Rust library for automating the creation and management of Spotify playlists v
 Whether you're working on blockchain development, cloud security, automation, or full-stack applications - feel free to explore my repositories or reach out directly.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lorelein/)
-- 💻 [GitHub](https://github.com/SkyeVault)
 
 ---
 
