@@ -16,9 +16,11 @@ Hi, I'm **Lorelei Noble** - an open-source software enthusiast and full-stack de
 - **HomeSchool-v1** - a desktop learning app built with Tauri for Linux
 
 # Download and install
+```bash
 wget https://github.com/SkyeVault/HomeSchool-v1/releases/download/v0.1.0/learning-world_0.1.0_amd64.deb
 sudo dpkg -i learning-world_0.1.0_amd64.deb
 sudo apt --fix-broken install  # if needed for dependencies
+```
 
 🖥️ [Linux Terminal Study Hub](https://www.arynwood.com/terminal)
 
