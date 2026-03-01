@@ -1,78 +1,75 @@
 # Lorelei Noble
 
-Hi, I'm Lorelei Noble, an open-source software enthusiast and web developer.  Projects include Terraform and Proxmox automation, 3D environments using Three.js, decentralized infrastructure, blockchain development, security research, and Rust-based tooling.  I love configuring DNS, NGINX, and making n8n workflows.  
+Hi, I'm **Lorelei Noble** — an open-source software enthusiast and full-stack developer focused on infrastructure automation, cloud security, and decentralized systems. My work spans Terraform and Proxmox automation, 3D web environments with Three.js, blockchain development, security research, and Rust-based tooling. I have a particular fondness for DNS configuration, NGINX tuning, and building n8n workflows.
 
-Visit my development site at [Arynwood Technology](https://www.dev.arynwood.com)
-
-[Chat with me on IRC](https://irc.arynwood.com) irc.arynwood.com:6697
-
+🌐 [arynwood.com](https://arynwood.com) &nbsp;|&nbsp; 💻 [dev.arynwood.com](https://www.dev.arynwood.com) &nbsp;|&nbsp; 💬 [IRC: irc.arynwood.com:6697](https://irc.arynwood.com)
 
 ---
 
 ## Current Projects
 
-- Container orchestration using Terraform
-- Software automation using n8n, ollama and ansible
-- Security hardening
-- Custom CMS Template creation using python
-- Develop UI for hosting automation
+- **Container orchestration** with Terraform and Proxmox
+- **Software automation** using n8n, Ollama, and Ansible
+- **Security hardening** across self-hosted infrastructure
+- **Custom CMS template generation** with Python
+- **UI development** for hosting automation workflows
+- **HomeSchool-v1** — a desktop learning app built with Tauri for Linux
 
-Check out my [Linux Terminal Study Hub](https://www.arynwood.com/terminal)
+> 📦 **Install HomeSchool-v1 on Linux:**
+> ```bash
+> sudo dpkg -i learning-world_0.1.0_amd64.deb
+> ```
+
+🖥️ [Linux Terminal Study Hub](https://www.arynwood.com/terminal)
 
 ---
 
 ## My Journey
-I started in web design and graphic arts before shifting my focus to automation, cloud security, and software development.  
-My goal is to build expertise in:
-- Infrastructure automation
+
+I started out in web design and graphic arts before pivoting toward infrastructure automation, cloud security, and systems programming. That path has taken me from building static sites to writing smart contracts, publishing Rust crates, and running self-hosted services on bare metal.
+
+**Current focus areas:**
+- Infrastructure automation at scale
 - Scalable security architecture
-- Locally hosted AI training
+- Locally hosted AI model training and orchestration
 
 ---
 
-## My Published Crate: Spotify Playlist Maker
+## Published Crate: Spotify Playlist Maker
 
 [![Rust CI](https://github.com/SkyeVault/Main/actions/workflows/ci.yml/badge.svg)](https://github.com/SkyeVault/Main/actions/workflows/ci.yml)
 [![Crates.io](https://img.shields.io/crates/v/spotify_playlist_maker)](https://crates.io/crates/spotify_playlist_maker)
-![Crates.io](https://img.shields.io/crates/d/spotify_playlist_maker)
-![Crates.io](https://img.shields.io/crates/l/spotify_playlist_maker)
+![Downloads](https://img.shields.io/crates/d/spotify_playlist_maker)
+![License](https://img.shields.io/crates/l/spotify_playlist_maker)
 [![Docs.rs](https://docs.rs/spotify_playlist_maker/badge.svg)](https://docs.rs/spotify_playlist_maker)
 
-### Overview
-Spotify Playlist Maker is a Rust package for automating the creation and management of Spotify playlists.
+A Rust library for automating the creation and management of Spotify playlists via the Spotify Web API.
 
-### View the Package
-- [Spotify Playlist Maker on Crates.io](https://crates.io/crates/spotify_playlist_maker)
-- [Documentation on Docs.rs](https://docs.rs/spotify_playlist_maker)
-  
----
-
-## Technologies in Use
-
-### Blockchain and Web3
-- Three.js
-- Foundry and Solidity
-- IPFS, Web3.Storage
-- Smart contract security best practices
-
-### Rust Tooling
-- CLI tools and scripting
-- Spotify Playlist Maker (published crate)
-- High-performance logic and automation
-
-### Cloud Security and Infrastructure
-- Proxmox
-- Terraform and Ansible
-- GitHub Actions for CI/CD pipelines
+- 📦 [Crates.io](https://crates.io/crates/spotify_playlist_maker)
+- 📖 [Documentation](https://docs.rs/spotify_playlist_maker)
 
 ---
 
-## Connect and Collaborate
-Interested in blockchain development, cloud security, automation, or full-stack applications?  
-Feel free to check out my repositories and reach out.
+## Technologies
 
-- Site: [arynwood.com](https://arynwood.com)
-- LinkedIn: [Lorelei Noble](https://www.linkedin.com/in/lorelein/)
+**Blockchain & Web3**
+— Three.js, Foundry, Solidity, IPFS, Web3.Storage, smart contract security
 
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=skyevault&theme=dark)      ![IPv6 Certification Badge for Arynwood](https://ipv6.he.net/certification/create_badge.php?pass_name=Arynwood&badge=1)
+**Rust Tooling**
+— CLI tools, automation scripts, published crates, high-performance logic
+
+**Cloud Security & Infrastructure**
+— Proxmox, Terraform, Ansible, GitHub Actions CI/CD
+
+---
+
+## Connect & Collaborate
+
+Whether you're working on blockchain development, cloud security, automation, or full-stack applications — feel free to explore my repositories or reach out directly.
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lorelein/)
+- 💻 [GitHub](https://github.com/SkyeVault)
+
+---
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=skyevault&theme=dark) &nbsp; ![IPv6 Certification Badge](https://ipv6.he.net/certification/create_badge.php?pass_name=Arynwood&badge=1)
