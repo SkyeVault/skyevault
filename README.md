@@ -3,8 +3,6 @@
 Hi, I'm Lorelei Noble, an open-source software enthusiast and web developer.  Projects include Terraform and Proxmox automation, 3D environments using Three.js, decentralized infrastructure, blockchain development, security research, and Rust-based tooling.  I love configuring DNS, NGINX, and making n8n workflows.  
 
 Visit my development site at [Arynwood Technology](https://www.dev.arynwood.com), including a self-hosted IRC server. [Chat with me!](https://irc.arynwood.com)
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=skyevault&theme=dark)      ![IPv6 Certification Badge for Arynwood](https://ipv6.he.net/certification/create_badge.php?pass_name=Arynwood&badge=1)
 ---
 
 ## Current Projects
@@ -72,12 +70,5 @@ Feel free to check out my repositories and reach out.
 - Site: [arynwood.com](https://arynwood.com)
 - LinkedIn: [Lorelei Noble](https://www.linkedin.com/in/lorelein/)
 
-## Archived Project: Original NFT Collection: Lorelei Noble Genesis
-
-- Testnet is no longer supported by Polygon. This project is now considered an archive
-- Hand-drawn original artwork converted into a NFT collection
-- Custom smart contract written in Solidity and deployed with Foundry (Rust)
-- Deployed to: Polygon Amoy Testnet (proof of concept)
-- Smart Contract Address: 0x1C5ec3De32C1cA8e1da93A99c176fa0eF2711783  
-- Hosted on IPFS: bafybeihdo27nu3iak7njllgpkmx3ra27mbazlrr444t4sdp46z3sn2v5ye  
-- OpenSea (Testnet): https://testnets.opensea.io/assets/amoy/0x1C5ec3De32C1cA8e1da93A99c176fa0eF2711783/
+  
+![GitHub Streak](https://streak-stats.demolab.com/?user=skyevault&theme=dark)      ![IPv6 Certification Badge for Arynwood](https://ipv6.he.net/certification/create_badge.php?pass_name=Arynwood&badge=1)
