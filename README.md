@@ -1,6 +1,6 @@
 # Lorelei Noble
 
-Hi, I'm **Lorelei Noble** - an open-source software enthusiast and full-stack developer focused on infrastructure automation, cloud security, and decentralized systems. My work spans Terraform and Proxmox automation, 3D web environments with Three.js, blockchain development, security research, and Rust-based tooling. I have a particular fondness for DNS configuration, NGINX tuning, and building n8n workflows.
+Hi, I'm **Lorelei Noble** - an open-source software enthusiast and full-stack developer focused on infrastructure automation, cloud security, and decentralized systems. My work spans from Desktop app creation, Terraform and Proxmox automation, 3D web environments with Three.js, blockchain development, security research, and Rust-based tooling. I have a particular fondness for DNS configuration, NGINX tuning, and building n8n workflows.
 
 🌐 [arynwood.com](https://arynwood.com) &nbsp;|&nbsp; 💻 [dev.arynwood.com](https://www.dev.arynwood.com) &nbsp;|&nbsp; 💬 [IRC: irc.arynwood.com:6697](https://irc.arynwood.com)
 
