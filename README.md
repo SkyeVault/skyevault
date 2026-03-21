@@ -8,11 +8,11 @@ Hi, I'm **Lorelei Noble** - an open-source software enthusiast and full-stack de
 
 ## Current Projects
 
-- **Container orchestration** with Terraform and Proxmox
-- **Software automation** using n8n, Ollama, and Ansible
+- **ArynCore MCP** Linux desktop application for managing local ai tools, irc, e2ee p2p chat, and server files.
+- **Software automation** using n8n and Ollama
 - **Security hardening** across self-hosted infrastructure
 - **Custom CMS template generation** with Python
-- **UI development** for hosting automation workflows
+- **UI development** for automation workflows
 - **HomeSchool-v1** - a desktop learning app built with Tauri for Linux
 
 # Download and install
@@ -61,7 +61,7 @@ A Rust library for automating the creation and management of Spotify playlists v
 - CLI tools, automation scripts, published crates, high-performance logic
 
 **Cloud Security & Infrastructure**
-- Proxmox, Terraform, Ansible, GitHub Actions CI/CD
+- Proxmox, GitHub Actions CI/CD
 
 ---
 
