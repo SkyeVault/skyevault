@@ -1,7 +1,6 @@
   Lorelei Noble
 
-  Open-source developer building local-first software — desktop apps, AI tooling, infrastructure automation, and creative tools.
-  My work runs on bare metal, not someone else's cloud.
+  Hi, I'm Lorelei Noble, an Open-source developer building local-first software, desktop apps, AI tooling, infrastructure automation, and creative tools.
 
   🌐 arynwood.com &nbsp;|&nbsp; 💻 dev.arynwood.com &nbsp;|&nbsp; 💬 IRC: irc.arynwood.com:6697
 
