@@ -1,76 +1,107 @@
-# Lorelei Noble
+  Lorelei Noble
 
-Hi, I'm **Lorelei Noble** - an open-source software enthusiast and full-stack developer focused on infrastructure automation, cloud security, and decentralized systems. My work spans from Linux desktop app creation, scripts and automation, 3D web environments with Three.js, blockchain development, security research, and Rust-based tooling. I have a particular fondness for DNS configuration, NGINX tuning, and building n8n workflows.
+  Open-source developer building local-first software — desktop apps, AI tooling, infrastructure automation, and creative tools.
+  My work runs on bare metal, not someone else's cloud.
 
-🌐 [arynwood.com](https://arynwood.com) &nbsp;|&nbsp; 💻 [dev.arynwood.com](https://www.dev.arynwood.com) &nbsp;|&nbsp; 💬 [IRC: irc.arynwood.com:6697](https://irc.arynwood.com)
+  🌐 arynwood.com &nbsp;|&nbsp; 💻 dev.arynwood.com &nbsp;|&nbsp; 💬 IRC: irc.arynwood.com:6697
 
----
+  ---
+  Current Projects
 
-## Current Projects
+  ArynCore MCP — v0.3.0
 
-- **ArynCore MCP** Linux desktop application for managing local ai tools, irc, e2ee p2p chat, and server files.
-- **Software automation** using n8n and Ollama
-- **Security hardening** across self-hosted infrastructure
-- **Custom CMS template generation** with Python
-- **UI development** for automation workflows
-- **HomeSchool-v1** - a desktop learning app built with Tauri for Linux
+  A local-first AI desktop hub built with Tauri, FastAPI, and React. Manage multiple LLMs, IRC bots, n8n workflows, and GPU tools
+  from a unified native interface. No API key or subscription required.
 
-# Download and install
-```bash
-wget https://github.com/SkyeVault/HomeSchool-v1/releases/download/v0.1.0/learning-world_0.1.0_amd64.deb
-sudo dpkg -i learning-world_0.1.0_amd64.deb
-sudo apt --fix-broken install  # if needed for dependencies
-```
+  - Multi-model LLM chat with streaming via Ollama (local or remote)
+  - Design Center — Canva-style image editor with AI generation, img2img, 18 style presets, layers, text tools, and export
+  - IRC integration — connect channels, manage AI bots on demand
+  - n8n workflow hub — trigger and monitor local and remote instances
+  - GPU tool library — SadTalker, AnimateDiff, Whisper, Stable Diffusion, TortoiseTTS
+  - E2EE P2P chat, file browser, live system dashboard
+  - SOCKS5 proxy support, privacy-first (bots do not auto-connect)
 
-🖥️ [Linux Terminal Study Hub](https://www.arynwood.com/terminal)
+  sudo dpkg -i ArynCore_0.3.0_amd64.deb
 
----
+  ---
+  Alduin Security — v0.1.0
 
-## My Journey
+  A self-hosted security operations desktop application for authorized penetration testing and network reconnaissance on
+  internally owned infrastructure. Built with Tauri (Rust + React/TypeScript).
 
-I started out in web design and graphic arts before pivoting toward infrastructure automation, cloud security, and systems programming. That path has taken me from building static sites to writing smart contracts, publishing Rust crates, and running self-hosted services on bare metal.
+  - Unified GUI for launching and managing security tools
+  - Live system monitoring — CPU, memory, disk, processes, network interfaces
+  - Encrypted in-memory password vault (AES-256-GCM)
+  - Live terminal command center
+  - Session-based authentication with bcrypt and brute-force lockout
+  - Runs on Kali Linux via Proxmox KVM — WireGuard VPN required for admin access
 
-**Current focus areas:**
-- Infrastructure automation at scale
-- Scalable security architecture
-- Locally hosted AI model training and orchestration
+  ---
+  HomeSchool / Learning World — v0.1.0
 
----
+  A locally controlled desktop learning environment for children built with Tauri and TypeScript. No internet required after
+  install.
 
-## Published Crate: Spotify Playlist Maker
+  - Early learning suite for ages 1–3: alphabet, animals, counting, shapes, doodle canvas, music buttons
+  - Full music education hub: staff explorer, piano keys, note values, free play, drums
+  - Beginner coding, mathematics, reading, science, history, geography, language arts, art, and PE
+  - Parent-governed sandbox model — no unrestricted shell access, allowlist-based command execution, local audit logging
+  - Scales from early visual interaction through advanced technical study
 
-[![Rust CI](https://github.com/SkyeVault/Main/actions/workflows/ci.yml/badge.svg)](https://github.com/SkyeVault/Main/actions/workflows/ci.yml)
-[![Crates.io](https://img.shields.io/crates/v/spotify_playlist_maker)](https://crates.io/crates/spotify_playlist_maker)
-![Downloads](https://img.shields.io/crates/d/spotify_playlist_maker)
-![License](https://img.shields.io/crates/l/spotify_playlist_maker)
-[![Docs.rs](https://docs.rs/spotify_playlist_maker/badge.svg)](https://docs.rs/spotify_playlist_maker)
+  wget https://github.com/SkyeVault/HomeSchool-v1/releases/download/v0.1.0/learning-world_0.1.0_amd64.deb
+  sudo dpkg -i learning-world_0.1.0_amd64.deb
 
-A Rust library for automating the creation and management of Spotify playlists via the Spotify Web API.
+  🖥️  Linux Terminal Study Hub
 
-- 📦 [Crates.io](https://crates.io/crates/spotify_playlist_maker)
-- 📖 [Documentation](https://docs.rs/spotify_playlist_maker)
+  ---
+  Spotify Playlist Maker
 
----
+  A Rust library and CLI tool for automating Spotify playlist creation via the Spotify Web API. Published on crates.io with a
+  Tauri desktop UI.
 
-## Technologies
+  https://img.shields.io/crates/v/spotify_playlist_maker https://img.shields.io/crates/d/spotify_playlist_maker
+  https://img.shields.io/crates/l/spotify_playlist_maker https://docs.rs/spotify_playlist_maker/badge.svg
+  https://github.com/SkyeVault/Main/actions/workflows/ci.yml/badge.svg
 
-**Blockchain & Web3**
-- Three.js, Foundry, Solidity, IPFS, Web3.Storage, smart contract security
+  - OAuth2 authentication with Spotify — no manual token entry
+  - Automated playlist creation from a song list
+  - CLI (cargo install spotify_playlist_maker) and Tauri desktop app
+  - 📦 Crates.io · 📖 Docs
 
-**Rust Tooling**
-- CLI tools, automation scripts, published crates, high-performance logic
+  ---
+  My Journey
 
-**Cloud Security & Infrastructure**
-- Proxmox, GitHub Actions CI/CD
+  I started in web design and graphic arts before pivoting toward infrastructure automation, systems programming, and security.
+  That path has taken me from static sites to smart contracts, published Rust crates, GPU tooling, and self-hosted services
+  running on bare metal.
 
----
+  Focus areas:
+  - Local-first desktop applications (Tauri + Rust)
+  - AI orchestration and GPU tool management
+  - Infrastructure automation and self-hosted services
+  - Security tooling for authorized lab environments
+  - Creative tooling: design, generative AI, audio/video
 
-## Connect & Collaborate
+  ---
+  Technologies
 
-Whether you're working on blockchain development, cloud security, automation, or full-stack applications - feel free to explore my repositories or reach out directly.
+  Desktop & Systems — Tauri, Rust, Python, FastAPI, React, TypeScript, Vite
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/lorelein/)
+  AI & GPU — Ollama, Stable Diffusion (A1111), Whisper, SadTalker, AnimateDiff, TortoiseTTS
 
----
+  Automation — n8n, GitHub Actions CI/CD, Python scripting
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=skyevault&theme=dark) &nbsp; ![IPv6 Certification Badge](https://ipv6.he.net/certification/create_badge.php?pass_name=Arynwood&badge=1)
+  Infrastructure — Proxmox, WireGuard, NGINX, Docker, Prometheus
+
+  Blockchain & Web3 — Solidity, Foundry, IPFS, Three.js, smart contract security
+
+  ---
+  Connect
+
+  - 🔗 LinkedIn
+  - 💬 IRC: irc.arynwood.com:6697
+
+  ---
+  https://streak-stats.demolab.com/?user=skyevault&theme=dark &nbsp;
+  https://ipv6.he.net/certification/create_badge.php?pass_name=Arynwood&badge=1
+
