@@ -101,6 +101,6 @@
   - 💬 IRC: irc.arynwood.com:6697
 
   ---
-  https://streak-stats.demolab.com/?user=skyevault&theme=dark &nbsp;
-  https://ipv6.he.net/certification/create_badge.php?pass_name=Arynwood&badge=1
+● ![GitHub Streak](https://streak-stats.demolab.com/?user=skyevault&theme=dark) &nbsp; ![IPv6 Certification
+  Badge](https://ipv6.he.net/certification/create_badge.php?pass_name=Arynwood&badge=1)
 
