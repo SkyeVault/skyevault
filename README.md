@@ -23,7 +23,8 @@ A local-first AI desktop hub built with **Tauri, FastAPI, and React**. Manage mu
 - SOCKS5 proxy support, privacy-first (bots do not auto-connect)
 
 ```bash
-sudo dpkg -i ArynCore_0.3.0_amd64.deb
+#coming soon
+sudo dpkg -i ArynCore_0.4.0_amd64.deb
 ```
 
 ---
