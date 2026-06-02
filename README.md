@@ -2,13 +2,20 @@
 
 # 👋 Hi, I'm Lorelei Noble
 
-Open-source developer building local-first software, desktop apps, AI tooling, infrastructure automation, and creative tools.
+Open-source developer building local-first software, desktop applications, business automation, and web platforms.
+Linux Network Security is the central focus of my research in 2026. I am working through labs daily, discovering tools, and creating workflows that work for enterprise security.
 
 🌐 [arynwood.com](https://arynwood.com) &nbsp;|&nbsp; 💻 [dev.arynwood.com](https://dev.arynwood.com) &nbsp;|&nbsp; 💬 IRC: `irc.arynwood.com:6697`
 
 ---
 
 ## Current Projects
+
+### Linux Netowrk Security Lab
+Custom workflows, labs, and automation tools to document cyber security research and practice.
+
+[Repository] (https://github.com/SkyeVault/linux-network-security-lab)
+
 
 ### ArynCore MCP v0.3.0
 
@@ -42,7 +49,7 @@ A self-hosted security operations desktop application for authorized penetration
 
 ---
 
-### HomeSchool / Learning World v0.1.0
+### HomeSchool 
 
 A locally controlled desktop learning environment for children built with **Tauri and TypeScript**. No internet required after install.
 
