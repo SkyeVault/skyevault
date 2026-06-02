@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Lorelei Noble
 
-Open-source developer building local-first software, desktop applications, business automation, and custom web platforms.
+Open-source developer building local-first software applications, business automation, and custom web platforms.
 
 Linux Network Security is the central focus of my research in 2026. Arynwood Technology is creating security tools and software solutions for organizations.
 
