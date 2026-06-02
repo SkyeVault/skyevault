@@ -13,10 +13,10 @@ Linux Network Security is the central focus of my research in 2026. Arynwood Tec
 ## Current Projects
 
 ### Linux Netowrk Security Lab
-Custom workflows, labs, and automation tools to document cyber security research and practice.
 
-[Repository] (https://github.com/SkyeVault/linux-network-security-lab)
+Custom workflows, labs, and automation tools to document cybersecurity research and practice.
 
+https://github.com/SkyeVault/linux-network-security-lab
 
 ### ArynCore MCP v0.3.0
 
