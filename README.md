@@ -16,7 +16,7 @@ Linux Network Security is the central focus of my research in 2026. Arynwood Tec
 
 Custom workflows, labs, and automation tools to document cybersecurity research and practice.
 
-https://github.com/SkyeVault/linux-network-security-lab
+[Repository](https://github.com/SkyeVault/linux-network-security-lab)
 
 ### ArynCore MCP v0.3.0
 
@@ -65,7 +65,7 @@ wget https://github.com/SkyeVault/HomeSchool-v1/releases/download/v0.1.0/learnin
 sudo dpkg -i learning-world_0.1.0_amd64.deb
 ```
 
-Linux Terminal Study Hub
+[Linux Terminal Study Hub](https://arynwood.com/terminal)
 
 ---
 
