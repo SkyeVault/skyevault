@@ -90,7 +90,7 @@ A Rust library and CLI tool for automating Spotify playlist creation via the Spo
 
 ## My Journey
 
-I started in web design and graphic arts before pivoting toward infrastructure automation, systems programming, and security. That path has taken me from static sites to smart contracts, published Rust crates, GPU tooling, and self-hosted services running on bare metal.
+I started in web design and graphic arts before pivoting toward infrastructure automation, systems programming, and security. That path has taken me from static sites to smart contracts, published Rust crates, GPU tooling, and self-hosted services.
 
 **Focus areas:**
 
