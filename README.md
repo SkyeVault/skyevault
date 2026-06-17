@@ -7,6 +7,7 @@ Open-source developer building local-first software applications, business autom
 Linux Network Security is the central focus of my research in 2026. Arynwood Technology is creating security tools and software solutions for organizations.
 
 🌐 [arynwood.com](https://arynwood.com) &nbsp;|&nbsp; 💻 [dev.arynwood.com](https://dev.arynwood.com) &nbsp;|&nbsp; 💬 IRC: `irc.arynwood.com:6697`
+[![GitLab Contributor Stats](https://contributors.gitlab.com/users/arynwood/banner.svg)](https://contributors.gitlab.com/users/arynwood)
 
 ---
 
