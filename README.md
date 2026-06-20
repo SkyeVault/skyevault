@@ -7,6 +7,11 @@ Open-source developer building local-first software applications, business autom
 Linux Network Security is the central focus of my research in 2026. Arynwood Technology is creating security tools and software solutions for organizations.
 
 🌐 [arynwood.com](https://arynwood.com) &nbsp;|&nbsp; 💻 [dev.arynwood.com](https://dev.arynwood.com) &nbsp;|&nbsp; 💬 IRC: `irc.arynwood.com:6697`
+
+## Transcend-Hackathon
+This week I am participating in the GitLab Transcend Hackathon 
+I am looking forward to working with other developers in the contributor program
+
 [![GitLab Contributor Stats](https://contributors.gitlab.com/users/arynwood/banner.svg)](https://contributors.gitlab.com/users/arynwood)
 
 ---
@@ -74,7 +79,8 @@ sudo dpkg -i learning-world_0.1.0_amd64.deb
 
 ### Spotify Playlist Maker
 
-A Rust library and CLI tool for automating Spotify playlist creation via the Spotify Web API. Published on crates.io with a Tauri desktop UI.
+A Rust library and CLI tool for automating Spotify playlist creation via the Spotify Web API. Published on crates.io with a Tauri desktop UI. 
+I also used this library to create the playlist feature in Spotatui, an open-source terminal Spotify UI.
 
 [![Crates.io](https://img.shields.io/crates/v/spotify_playlist_maker)](https://crates.io/crates/spotify_playlist_maker)
 [![Downloads](https://img.shields.io/crates/d/spotify_playlist_maker)](https://crates.io/crates/spotify_playlist_maker)
