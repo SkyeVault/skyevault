@@ -4,96 +4,15 @@
 
 Open-source developer building local-first software applications, business automation, and custom web platforms.
 
-Linux Network Security is the central focus of my research in 2026. Arynwood Technology is creating security tools and software solutions for organizations.
+Linux Network Security is the central focus of my research in 2026. Arynwood Technology is creating tools and software solutions for organizations.
 
 🌐 [arynwood.com](https://arynwood.com) &nbsp;|&nbsp; 💻 [dev.arynwood.com](https://dev.arynwood.com) &nbsp;|&nbsp; 💬 IRC: `irc.arynwood.com:6697`
 
-## Transcend-Hackathon
-This week I am participating in the GitLab Transcend Hackathon 
-I am looking forward to working with other developers in the contributor program
+## Open Source Contributor
 
 [![GitLab Contributor Stats](https://contributors.gitlab.com/users/arynwood/banner.svg)](https://contributors.gitlab.com/users/arynwood)
 
----
-
-## Current Projects
-
-### Linux Netowrk Security Lab
-
-Custom workflows, labs, and automation tools to document cybersecurity research and practice.
-
-[Repository](https://github.com/SkyeVault/linux-network-security-lab)
-
----
-
-### ArynCore MCP v0.3.0
-
-A local-first AI desktop hub built with **Tauri, FastAPI, and React**. Manage multiple LLMs, IRC bots, n8n workflows, and GPU tools from a unified native interface. No API key or subscription required.
-
-- Multi-model LLM chat with streaming via Ollama (local or remote)
-- Design Center: Canva-style image editor with AI generation, img2img, 18 style presets, layers, text tools, and export
-- IRC integration: connect channels, manage AI bots on demand
-- n8n workflow hub: trigger and monitor local and remote instances
-- GPU tool library: SadTalker, AnimateDiff, Whisper, Stable Diffusion, TortoiseTTS
-- E2EE P2P chat, file browser, live system dashboard
-- SOCKS5 proxy support, privacy-first (bots do not auto-connect)
-
-```bash
-#coming soon
-sudo dpkg -i ArynCore_0.4.0_amd64.deb
-```
-
----
-
-### Alduin Security v0.1.0
-
-A self-hosted security operations desktop application for authorized penetration testing and network reconnaissance on internally owned infrastructure. Built with **Tauri (Rust + React/TypeScript)**.
-
-- Unified GUI for launching and managing security tools
-- Live system monitoring: CPU, memory, disk, processes, network interfaces
-- Encrypted in-memory password vault (AES-256-GCM)
-- Live terminal command center
-- Session-based authentication with bcrypt and brute-force lockout
-- Runs on Kali Linux via Proxmox KVM, WireGuard VPN required for admin access
-
----
-
-### HomeSchool 
-
-A locally controlled desktop learning environment for children built with **Tauri and TypeScript**. No internet required after install.
-
-- Early learning suite for ages 1–3: alphabet, animals, counting, shapes, doodle canvas, music buttons
-- Full music education hub: staff explorer, piano keys, note values, free play, drums
-- Beginner coding, mathematics, reading, science, history, geography, language arts, art, and PE
-- Parent-governed sandbox model: no unrestricted shell access, allowlist-based command execution, local audit logging
-- Scales from early visual interaction through advanced technical study
-
-```bash
-wget https://github.com/SkyeVault/HomeSchool-v1/releases/download/v0.1.0/learning-world_0.1.0_amd64.deb
-sudo dpkg -i learning-world_0.1.0_amd64.deb
-```
-
 [Linux Terminal Study Hub](https://arynwood.com/terminal)
-
----
-
-### Spotify Playlist Maker
-
-A Rust library and CLI tool for automating Spotify playlist creation via the Spotify Web API. Published on crates.io with a Tauri desktop UI. 
-I also used this library to create the playlist feature in Spotatui, an open-source terminal Spotify UI.
-
-[![Crates.io](https://img.shields.io/crates/v/spotify_playlist_maker)](https://crates.io/crates/spotify_playlist_maker)
-[![Downloads](https://img.shields.io/crates/d/spotify_playlist_maker)](https://crates.io/crates/spotify_playlist_maker)
-[![License](https://img.shields.io/crates/l/spotify_playlist_maker)](https://crates.io/crates/spotify_playlist_maker)
-[![Docs](https://docs.rs/spotify_playlist_maker/badge.svg)](https://docs.rs/spotify_playlist_maker)
-[![CI](https://github.com/SkyeVault/Main/actions/workflows/ci.yml/badge.svg)](https://github.com/SkyeVault/Main/actions/workflows/ci.yml)
-
-- OAuth2 authentication with Spotify, no manual token entry
-- Automated playlist creation from a song list
-- CLI (`cargo install spotify_playlist_maker`) and Tauri desktop app
-- [Crates.io](https://crates.io/crates/spotify_playlist_maker) &nbsp;·&nbsp; [Docs](https://docs.rs/spotify_playlist_maker)
-
----
 
 ## My Journey
 
@@ -111,8 +30,6 @@ I started in web design and graphic arts before pivoting toward infrastructure a
 
 ## Technologies
 
-| Area | Stack |
-|---|---|
 | **Desktop & Systems** | Tauri, Rust, Python, FastAPI, React, TypeScript, Vite |
 | **AI & GPU** | Ollama, Stable Diffusion (A1111), Whisper, SadTalker, AnimateDiff, TortoiseTTS |
 | **Automation** | n8n, GitHub Actions CI/CD, Python scripting |
