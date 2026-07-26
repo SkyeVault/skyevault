@@ -30,11 +30,11 @@ I started in web design and graphic arts before pivoting toward infrastructure a
 
 ## Technologies
 
-| **Desktop & Systems** | Tauri, Rust, Python, FastAPI, React, TypeScript, Vite |
-| **AI & GPU** | Ollama, Stable Diffusion (A1111), Whisper, SadTalker, AnimateDiff, TortoiseTTS |
-| **Automation** | n8n, GitHub Actions CI/CD, Python scripting |
-| **Infrastructure** | Proxmox, WireGuard, NGINX, Docker, Prometheus |
-| **Blockchain & Web3** | Solidity, Foundry, IPFS, Three.js, smart contract security |
+- **Desktop & Systems** | Tauri, Rust, Python, FastAPI, React, TypeScript, Vite |
+- **AI & GPU** | Ollama, Stable Diffusion (A1111), Whisper, SadTalker, AnimateDiff, TortoiseTTS |
+- **Automation** | n8n, GitHub Actions CI/CD, Python scripting |
+- **Infrastructure** | Proxmox, WireGuard, NGINX, Docker, Prometheus |
+- **Blockchain & Web3** | Solidity, Foundry, IPFS, Three.js, smart contract security |
 
 ---
 
