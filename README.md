@@ -8,10 +8,6 @@ Linux Network Security is the central focus of my research in 2026. Arynwood Tec
 
 🌐 [arynwood.com](https://arynwood.com) &nbsp;|&nbsp; 💻 [dev.arynwood.com](https://dev.arynwood.com) &nbsp;|&nbsp; 💬 IRC: `irc.arynwood.com:6697`
 
-## Open Source Contributor
-
-[![GitLab Contributor Stats](https://contributors.gitlab.com/users/arynwood/banner.svg)](https://contributors.gitlab.com/users/arynwood)
-
 [Linux Terminal Study Hub](https://arynwood.com/terminal)
 
 ## My Journey
@@ -44,5 +40,9 @@ I started in web design and graphic arts before pivoting toward infrastructure a
 - IRC: `irc.arynwood.com:6697`
 
 ---
+
+## Open Source Contributor
+
+[![GitLab Contributor Stats](https://contributors.gitlab.com/users/arynwood/banner.svg)](https://contributors.gitlab.com/users/arynwood)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=skyevault&theme=dark) &nbsp; ![IPv6 Certification Badge](https://ipv6.he.net/certification/create_badge.php?pass_name=Arynwood&badge=1)
