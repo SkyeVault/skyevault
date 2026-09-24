@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Lorelei Noble
 
-Open-source engineer building local-first software applications, business automation, and custom web platforms.
+I build local-first software applications, business automation, and custom web platforms.
 
 Arynwood Technology is creating tools and software solutions for everyone.
 
